@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.19248811-blue?labelColor=black)](https://doi.org/10.5281/zenodo.19248811)
+
 # Artifact for the Paper *COMPASS: Predicting the Relationship of Multiple Patches for Vulnerabilities with LLMs*
 
 COMPASS is an automated approach that predicts the relationships of multiple vulnerability patches with large language models.
