@@ -1,0 +1,5 @@
+            "Ensure every patch in the input patch group should participate in at least one relationship instance, except for patches that have been identified in Phase-2 as not contributing to the target vulnerability.\n"
+            "Verify no contradictory relationships\n"
+            "- Relationship instances in Hierarchy-1 (Merge and Mirror) should be single-labeled\n"
+            "- The instances in Hierarchy-2 (Better Solution, Fixing-of-Fixing, and Collaboration) may carry multiple labels, \n"
+            "- For Hierarchy-3 (Separation), each instance is single-labeled\n"
